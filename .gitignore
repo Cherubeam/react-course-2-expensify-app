@@ -1,5 +1,9 @@
 .DS_Store
+coverage/
 node_modules/
 playground/
-public/bundle.js
 README.md
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
